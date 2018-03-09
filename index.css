@@ -5,18 +5,22 @@
 
 .item2 {
   grid-area: menu;
+  background-color:  #ff80bf;
 }
 
 .item3 {
   grid-area: main;
+  background-color:  #80ffaa;
 }
 
 .item4 {
   grid-area: right;
+  background-color:  #ffc266:
 }
 
 .item5 {
   grid-area: footer;
+  background-color:  #df80ff;
 }
 
 .grid-container {
