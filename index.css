@@ -31,7 +31,7 @@
 
 .grid-container {
   display: grid;
-  grid-template-areas: 'header header header header header header' 'menu main main main right right' 'menu footer footer footer footer footer';
+  grid-template-areas: 'Akki Akki Akki Akki Akki Akki' 'menu menu menu menu menu menu' 'space space content content content content' 'space space footer footer footer footer ;
   grid-gap: 10px;
   padding: 10px;
 }
